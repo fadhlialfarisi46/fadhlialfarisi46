@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate at every opportunity
 - 📫 How to reach me:
         - email: fadhlialfarisi46@gmail.com
-        - WhatsApp: +62 8515-6945-052
+        - WhatsApp: +62 851-5694-5062
         - LinkedIn: https://www.linkedin.com/in/fadhli-alfarisi
 
 <!---
