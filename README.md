@@ -3,9 +3,12 @@
 - 🌱 I’m currently learning Android Native(Kotlin) and Flutter
 - 💞️ I’m looking to collaborate at every opportunity
 - 📫 How to reach me:
-        - email: fadhlialfarisi46@gmail.com
-        - WhatsApp: +62 851-5694-5062
-        - LinkedIn: https://www.linkedin.com/in/fadhli-alfarisi
+       
+        -📧 email         : fadhlialfarisi46@gmail.com
+        
+        -📞 WhatsApp      : +62 851-5694-5062
+        
+        -🔗 LinkedIn      : https://www.linkedin.com/in/fadhli-alfarisi
 
 <!---
 fadhlialfarisi46/fadhlialfarisi46 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
