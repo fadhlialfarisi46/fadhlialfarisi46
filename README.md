@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @fadhlialfarisi46
 - 👀 I’m interested in Software Developer
-- 🌱 I’m currently learning Android Native(Kotlin) and Flutter
+- 🌱 I’m currently learning Android Native(Kotlin), iOS(Swift) and Flutter
 - 💞️ I’m looking to collaborate at every opportunity
 - 📫 How to reach me:
        
